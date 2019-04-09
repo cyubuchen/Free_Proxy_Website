@@ -156,7 +156,7 @@
 
     * 支持筛选条件：多种
 
-    * [**戳这里抓取500个代理(ip:port)**](https://github.com/cyubuchen/Free_Proxy_Website/blob/master/GetProxyFromSocks-proxy.py)  
+    * [**戳这获取代理(ip:port)**](https://github.com/cyubuchen/Free_Proxy_Website/blob/master/GetProxyFromSocks-proxy.py)  
 
 <br>
 
